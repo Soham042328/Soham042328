@@ -10,7 +10,7 @@ Committed to continuous learning, effective collaboration, and delivering soluti
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwindcss,nodejs,git,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwindcss,nodejs,git,vercel,figma&perline=5" />
 </p>
 
 ---
