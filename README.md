@@ -16,9 +16,11 @@ payment workflow implementations.
 ---
 
 ### 🔥 GitHub Streak
-<p align="center" style="margin-top:1rem;">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Soham042328" />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Soham042328" alt="GitHub Streak"/>
 </p>
+
 
 ### 📫 Connect With Me
 <p align="center">
