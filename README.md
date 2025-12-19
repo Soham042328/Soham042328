@@ -2,9 +2,9 @@
 
 ### 🚀 Full-Stack Developer | React • Next.js • TypeScript | Manchester, UK
 
-Full-Stack Developer with experience in building responsive, scalable web applications using modern technologies such as React, Next.js, and TypeScript.  
-Brings a solid understanding of front-end development alongside foundational back-end skills, with a focus on clean code, usability, and performance.  
-Committed to continuous learning, effective collaboration, and delivering solutions that improve user experience and meet project objectives.
+Full-Stack Developer with over a year of experience, including onsite work in the UK. Specialises in React,
+Next.js, Node.js, and PostgreSQL, focusing on scalable user interfaces, API integrations, and practical
+payment workflow implementations.
 
 ---
 
