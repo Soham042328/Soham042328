@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Soham Patil
 
-### 🚀 Full-Stack Developer | React • Next.js • TypeScript | Manchester, UK
+### 🚀 Full-Stack Developer | React • Node.js • TypeScript | Manchester, UK
 
 Full-Stack Developer with over a year of experience, including onsite work in the UK. Specialises in React,
 Next.js, Node.js, and PostgreSQL, focusing on scalable user interfaces, API integrations, and practical
