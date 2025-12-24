@@ -10,7 +10,7 @@ payment workflow implementations.
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript,typescript,tailwindcss,nodejs,git,vercel,figma&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,Express.js,nextjs,javascript,typescript,tailwindcss,git,vercel,figma&perline=5" />
 </p>
 
 ---
